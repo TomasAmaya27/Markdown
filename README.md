@@ -120,8 +120,8 @@ Omitir Markdown
 
 
 
-**Elementos de bloque
-Párrafos y saltos de línea:**
+### **Elementos de bloque**
+### **Párrafos y saltos de línea:**
 
 Para generar un nuevo párrafo en Markdown simplemente separa el texto mediante una línea en blanco (pulsando dos veces intro)
 Al igual que sucede con HTML, Markdown no soporta dobles líneas en blanco, así que si intentas generarlas estas se convertirán en una sola al procesarse.
@@ -238,7 +238,7 @@ Elemento de lista 6
 
 
 
-**Listas ordenadas:**
+### **Listas ordenadas:**
 
 Para crear listas ordenadas debes utilizar la sintaxis de tipo: «número.» 1.. Al igual que ocurre con las listas desordenadas, también podrás anidarlas o combinarlas.
 
