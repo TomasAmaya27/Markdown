@@ -1,4 +1,4 @@
-# Markdown
+###  Markdown
 ![image](https://github.com/user-attachments/assets/79701bd2-c38e-4308-acb0-95729bd1fefc)
 
 ¿Que es Markdown?:
@@ -233,6 +233,9 @@ Elemento de lista 4
 Elemento de lista 5
 Elemento de lista 6
 
+
+
+
 Listas ordenadas:
 
 Para crear listas ordenadas debes utilizar la sintaxis de tipo: «número.» 1.. Al igual que ocurre con las listas desordenadas, también podrás anidarlas o combinarlas.
@@ -266,6 +269,8 @@ De esta forma, obtendrás el siguiente resultado:
 
 Creando códigos de bloque.
 Puedes añadir tantas líneas y párrafos como quieras.
+
+
 
 
 Reglas horizontales:
