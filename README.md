@@ -10,7 +10,7 @@ De cara al usuario final no hay ninguna diferencia, por ejemplo este artículo a
 
 
 
-¿Para qué sirve Markdown?:
+**¿Para qué sirve Markdown?:**
 
 Markdown será perfecto para ti sobre todo si publicas de manera constante en Internet, donde el lenguaje HTML está más que presente: WordPress, Squarespace, Jekyll…
 Pero no estoy hablando solo de blogs o páginas web. Servicios como Trello o foros como Stackoverflow también soportan este lenguaje, y con el paso del tiempo encontrarás aún más lugares que lo utilicen.
@@ -23,14 +23,14 @@ Gracias a la simplicidad de su sintaxis podrás utilizarlo siempre que necesites
 
 
 
-¿Por qué utilizar Markdown?:
+**¿Por qué utilizar Markdown?:**
 
 Como acabas de ver hace un momento, este lenguaje de marcado está basado en un formato de texto plano.
 Este tipo de formato siempre será compatible con todas las plataformas que utilices, así que utilizar Markdown es una manera de mantener todo tu contenido siempre accesible desde cualquier dispositivo (smartphones, ordenadores de escritorio, tablets…), ya que en cualquiera de ellas siempre encontrarás las aplicaciones adecuadas para leer y editar este tipo de contenido.
 
 
 
-Sintaxis Markdown:
+**Sintaxis Markdown:**
 
 En este apartado descubrirás la sintaxis Markdown y los conceptos básicos para escribir utilizando este lenguaje de marcado.
 De hecho, al final del mismo estarás perfectamente capacitado para empezar a utilizar este lenguaje en tus escritos y publicaciones.
@@ -53,7 +53,7 @@ Otro de los objetivos de Markdown, es que puedas publicar los documentos “como
 
 
 
-Índice de sintaxis Markdown:
+**Índice de sintaxis Markdown:**
 
 En el lenguaje Markdown encontrarás tres tipos de elementos básicos que a su vez engloban el resto de la sintaxis. Considera esto una cheat sheet con la que guiarte.
 Elementos de bloque
@@ -118,8 +118,8 @@ Omitir Markdown
 
 
 
-Elementos de bloque
-Párrafos y saltos de línea:
+**Elementos de bloque
+Párrafos y saltos de línea:**
 
 Para generar un nuevo párrafo en Markdown simplemente separa el texto mediante una línea en blanco (pulsando dos veces intro)
 Al igual que sucede con HTML, Markdown no soporta dobles líneas en blanco, así que si intentas generarlas estas se convertirán en una sola al procesarse.
@@ -130,7 +130,7 @@ Donde cada verso tiene dos espacios en blanco al final.
 
 
 
-Encabezados:
+**Encabezados:**
 
 Las # almohadillas son uno de los métodos utilizados en Markdown para crear encabezados. Debes usarlos añadiendo uno por cada nivel.
 
@@ -162,7 +162,7 @@ No existe un número concreto = o - que necesites escribir para que esto funcion
 
 
 
-Citas:
+**Citas:**
 
 Las citas se generar utilizando el carácter mayor que > al comienzo del bloque de texto.
 
@@ -197,7 +197,7 @@ Recuerda separar los saltos de línea con >, o >> si te encuentras dentro de la 
 
 
 
-Listas:
+**Listas:**
 
 A diferencia de lo que ocurre en HTML, generar listas en Markdown es tremendamente sencillo. Puedes encontrarte con dos tipos.
 
@@ -236,7 +236,7 @@ Elemento de lista 6
 
 
 
-Listas ordenadas:
+**Listas ordenadas:**
 
 Para crear listas ordenadas debes utilizar la sintaxis de tipo: «número.» 1.. Al igual que ocurre con las listas desordenadas, también podrás anidarlas o combinarlas.
 
@@ -256,7 +256,7 @@ Elemento de lista 6
 
 
 
-Códigos de bloque:
+**Códigos de bloque:**
 
 Si quieres crear un bloque entero que contenga código. Lo único que tienes que hacer es encerrar dicho párrafo entre dos líneas formadas por tres ~ virgulillas.
 
@@ -273,7 +273,7 @@ Puedes añadir tantas líneas y párrafos como quieras.
 
 
 
-Reglas horizontales:
+**Reglas horizontales:**
 
 Las reglas horizontales se utilizan para separar secciones de una manera visual. Las estás viendo constantemente en este artículo ya que las estoy utilizando para separar los diferentes elementos de sintaxis de Markdown.
 
@@ -293,7 +293,7 @@ _ _ _
 
 
 
-Elementos de línea:
+**Elementos de línea:**
 
 Énfasis (negritas y cursivas)
 Markdown utiliza asteriscos o guiones bajos para enfatizar.
@@ -314,7 +314,7 @@ ___cursiva y negrita___	cursiva y negrita
 
 
 
-Links o enlaces:
+**Links o enlaces:**
 
 Añadir enlaces a una publicación, más que común, hoy en día es algo casi obligatorio. Con Markdown tendrás varias formas de hacerlo.
 
@@ -357,7 +357,8 @@ Verás esta forma dentro de elementos varios: links automáticos
 
 
 
-Código:
+**Código:**
+
 En según que tipo de publicaciones (sobre todo las de carácter técnico), necesitarás añadir pequeñas secciones donde mostrar código de otro lenguaje, atajos de teclado, o demás contenido que no debería ser tratado como tal.
 
 Para ello tienes disponible dos alternativas.
@@ -382,7 +383,7 @@ Ojo, ¡estos espacios deberás incluirlos en cada línea que escribas! Para aña
 
 
 
-Imágenes:
+**Imágenes:**
 
 Insertar una imagen con Markdown se realiza de una manera prácticamente idéntica a insertar links.
 Solo que en este caso, deberás añadir un símbolo de ! exclamación al principio y el enlace no será otro que la ubicación de la imagen.
@@ -405,7 +406,7 @@ O dos, sin ensuciar tu espacio de escritura.
 
 
 
-Elementos varios:
+**Elementos varios:**
 
 Links automáticos
 
