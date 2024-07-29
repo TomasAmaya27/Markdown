@@ -1,4 +1,5 @@
 # Markdown
+![image](https://github.com/user-attachments/assets/79701bd2-c38e-4308-acb0-95729bd1fefc)
 
 ¿Que es Markdown?:
 
@@ -26,3 +27,6 @@ Gracias a la simplicidad de su sintaxis podrás utilizarlo siempre que necesites
 
 Como acabas de ver hace un momento, este lenguaje de marcado está basado en un formato de texto plano.
 Este tipo de formato siempre será compatible con todas las plataformas que utilices, así que utilizar Markdown es una manera de mantener todo tu contenido siempre accesible desde cualquier dispositivo (smartphones, ordenadores de escritorio, tablets…), ya que en cualquiera de ellas siempre encontrarás las aplicaciones adecuadas para leer y editar este tipo de contenido.
+
+
+
