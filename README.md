@@ -8,6 +8,7 @@ De cara al usuario final no hay ninguna diferencia, por ejemplo este artículo a
 
 
 
+
 ¿Para qué sirve Markdown?:
 
 Markdown será perfecto para ti sobre todo si publicas de manera constante en Internet, donde el lenguaje HTML está más que presente: WordPress, Squarespace, Jekyll…
@@ -16,6 +17,8 @@ Además, Markdown está cada vez más extendido en el mundo “offline”. Nada 
 Incluso podrías escribir un libro con él, ya que puedes exportar fácilmente el resultado final a un formato ePub.
 Muchas de mis publicaciones en Amazon, Google Play o incluso iBooks, han visto la luz gracias a Markdown y a Ulysses (Mac, iOS)
 Gracias a la simplicidad de su sintaxis podrás utilizarlo siempre que necesites escribir y dar formato rápidamente, sobre todo si quieres hacerlo desde dispositivos móviles.
+
+
 
 
 
